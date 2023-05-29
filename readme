@@ -1,5 +1,5 @@
 HW 27
 
 /nginx/ - config nginx 
-/ansible/ - config and role for ansible
+/ansible/ - config and playbooks for ansible
 
